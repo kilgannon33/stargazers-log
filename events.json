@@ -1,6 +1,24 @@
 [
-  { "name": "octocat/Hello-World", "starred": "2024-01-15" },
-  { "name": "github/docs", "starred": "2024-02-02" },
-  { "name": "octo-org/octo-repo", "starred": "2024-03-21" }
+  {
+    "name": "octo-hello",
+    "owner": "github",
+    "description": "A friendly hello project for GitHub automation.",
+    "starred_at": "2026-07-12",
+    "language": "JavaScript"
+  },
+  {
+    "name": "copilot-guide",
+    "owner": "microsoft",
+    "description": "Practical examples for building with GitHub Copilot.",
+    "starred_at": "2026-07-22",
+    "language": "Markdown"
+  },
+  {
+    "name": "web-portfolio-kit",
+    "owner": "open-source",
+    "description": "A starter kit for personal websites and portfolios.",
+    "starred_at": "2026-08-01",
+    "language": "HTML"
+  }
 ]
 
